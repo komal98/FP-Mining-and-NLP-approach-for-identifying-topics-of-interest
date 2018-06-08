@@ -1,2 +1,2 @@
 # FP-Mining-and-NLP-approach-for-identifying-topics-of-interest
-Frequent pattern mining and Natural Language Processing to create topics of interest which is very similar to manually created topics. 
+This is a solution write-up which explains an alternative approach to add new topics of interest to a database which contains numerous documents of various topics. The approach is a mix of Frequent Pattern Mining and Natural Language Processing.
